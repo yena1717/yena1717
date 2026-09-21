@@ -32,7 +32,7 @@
 **Project Stack**
 `React` `Supabase` `OpenAI API`
 
-🔗 **Repository:** [PRIZM](prizm-kst.vercel.app)
+🔗 **Repository:** [PRIZM](https://github.com/Kevin2star/prizm-kst)
 
 ---
 
